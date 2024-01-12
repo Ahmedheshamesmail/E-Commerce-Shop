@@ -1,0 +1,16 @@
+// we conneect to database with PDO class and use  ERRMODE_EXCEPTION anmd PDOException to getmessage
+
+//  we create a lang() function to do a language page ( english.php )
+
+// we creat a (  init.php ) page countain a Routes 
+
+// we creat a (  init.php ) page to include the important files 
+
+// we create a ( $noNavbar ) to include Navbar in all Page Expect Pages Contain $noNavbar Var
+
+//  create logout.php Page with session_destroy() 
+
+// create first function GetTitle() with $$pageTitle that is contain the page name and echo it in Title
+
+// create members page ----> you can Add | Edit | Delete Members From Here 
+//
